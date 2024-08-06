@@ -8,3 +8,5 @@ https://app.powerbi.com/reportEmbed?reportId=83c3e6ac-1852-44ab-babb-d934e251821
 3. Connect Power BI to the database
 4. Build the dashboard
 5. Answer the analysis question and make analysis recommendations
+
+<img width="1296" alt="image" src="https://github.com/user-attachments/assets/6187b506-aff9-431d-9270-14d7a2bf62be">
